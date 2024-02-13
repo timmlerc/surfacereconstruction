@@ -30,7 +30,7 @@ https://github.com/mabaorui/NeuralPull
 https://github.com/mabaorui/OnSurfacePrior
 https://github.com/mabaorui/PredictableContextPrior
 ```
-
+<!---
 ## Surface Reconstruction Demo
 <p align="left">
   <img src="img/Teaser1.jpg" width="780" />
@@ -53,7 +53,7 @@ https://github.com/mabaorui/PredictableContextPrior
 ### Predicted queries in Loccal Coorinate System
 <p align="left">
   <img src="img/test1.gif" width="780" />
-</p>
+</p> --->
 
 ## Installation
 First you have to make sure that you have all dependencies in place.
